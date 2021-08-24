@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Atcrowdfunding-main:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38c7dea3-44ee-4540-9193-f6260c93a668" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="spring-beans.schema" />
+        <option value="BpmnFile" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Atcrowdfunding-main/src/main/webapp/WEB-INF/jsp/user/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wWgWdmd2IoKDLnERbUXI2LAFgX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Atcrowdfunding-potal-impl/src/main/resources/mybatis" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27126437" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java笔记\Atcrowdfunding\Atcrowdfunding-main\src\main\resources\bpmn" />
+      <recent name="F:\java笔记\Atcrowdfunding\Atcrowdfunding-main\src\main\webapp\jquery\layer\mobile\need" />
+      <recent name="F:\java笔记\Atcrowdfunding\Atcrowdfunding-main\src\main\webapp\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java笔记\Atcrowdfunding\Atcrowdfunding-potal-impl\src\main\resources\mybatis" />
+      <recent name="F:\java笔记\Atcrowdfunding\Atcrowdfunding-potal-api\src\main\java\com\atguigu\atcrowdfunding\potal\dao" />
+      <recent name="F:\java笔记\Atcrowdfunding\Atcrowdfunding-bean\src\main\java\com\atguigu\atcrowdfunding\bean" />
+      <recent name="F:\java笔记\Atcrowdfunding\Atcrowdfunding-main\src\main\resources\bpmn" />
+      <recent name="F:\java笔记\Atcrowdfunding\Atcrowdfunding-main\src\main\resources\spring" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.27">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.atcrowdfunding.util.MD5Util" />
+      <module name="Atcrowdfunding-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.atcrowdfunding.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Atcrowdfunding-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Atcrowdfunding-manager-impl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.index" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Atcrowdfunding-main" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test01" />
+      <option name="METHOD_NAME" value="index" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="potal-api" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="potal-api" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Atcrowdfunding-main:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Atcrowdfunding_main_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Atcrowdfunding_3" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52013" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Atcrowdfunding-main:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MD5Util" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="JUnit.Test01.index" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.27" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test01.index" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38c7dea3-44ee-4540-9193-f6260c93a668" name="Default Changelist" comment="" />
+      <created>1628579791165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628579791165</updated>
+      <workItem from="1628579794327" duration="5345000" />
+      <workItem from="1628585532616" duration="12394000" />
+      <workItem from="1628648912846" duration="9926000" />
+      <workItem from="1628669365848" duration="1173000" />
+      <workItem from="1628679134552" duration="4628000" />
+      <workItem from="1628684067637" duration="7882000" />
+      <workItem from="1628734517131" duration="34736000" />
+      <workItem from="1628823365643" duration="7551000" />
+      <workItem from="1628837673392" duration="16135000" />
+      <workItem from="1628915795582" duration="7822000" />
+      <workItem from="1628929180544" duration="10061000" />
+      <workItem from="1628993761868" duration="10835000" />
+      <workItem from="1629007905926" duration="419000" />
+      <workItem from="1629015449279" duration="16719000" />
+      <workItem from="1629082334714" duration="12750000" />
+      <workItem from="1629108274303" duration="5611000" />
+      <workItem from="1629174631087" duration="13364000" />
+      <workItem from="1629194148888" duration="459000" />
+      <workItem from="1629200944210" duration="2554000" />
+      <workItem from="1629257593143" duration="14579000" />
+      <workItem from="1629281182920" duration="3620000" />
+      <workItem from="1629286276164" duration="718000" />
+      <workItem from="1629341344782" duration="944000" />
+      <workItem from="1629342486289" duration="2542000" />
+      <workItem from="1629348999619" duration="595000" />
+      <workItem from="1629349658181" duration="59000" />
+      <workItem from="1629349744659" duration="173000" />
+      <workItem from="1629349941575" duration="468000" />
+      <workItem from="1629350462207" duration="6853000" />
+      <workItem from="1629374598188" duration="156000" />
+      <workItem from="1629374778486" duration="540000" />
+      <workItem from="1629375378669" duration="5322000" />
+      <workItem from="1629428579978" duration="29277000" />
+      <workItem from="1629513270103" duration="1660000" />
+      <workItem from="1629519770044" duration="4601000" />
+      <workItem from="1629540558069" duration="4766000" />
+      <workItem from="1629599908693" duration="31276000" />
+      <workItem from="1629683634900" duration="5160000" />
+      <workItem from="1629713127752" duration="1567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="327" y="0" key="#Project_Structure" timestamp="1629632797756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="327" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1629632797756" />
+    <state x="260" y="255" key="#Template_Data_Languages" timestamp="1629631283236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="260" y="255" key="#Template_Data_Languages/0.0.1536.824@0.0.1536.824" timestamp="1629631283236" />
+    <state x="269" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629685496326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="269" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1629685496326" />
+    <state x="1067" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1629687855851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1067" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1629687855851" />
+    <state x="522" y="62" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1628685309705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="62" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1628685309705" />
+    <state x="501" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628594069925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1628594069925" />
+    <state x="727" y="196" key="FileChooserDialogImpl" timestamp="1629374302839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="727" y="196" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1629374302839" />
+    <state width="1148" height="352" key="GridCell.Tab.0.bottom" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.0.center" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.0.left" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.0.right" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.1.bottom" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.1.center" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.1.left" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.1.right" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.2.bottom" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.2.center" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.2.left" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="352" key="GridCell.Tab.2.right" timestamp="1629688851463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="352" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1629688851463" />
+    <state width="1148" height="426" key="GridCell.Tab.3.bottom" timestamp="1629635367021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="426" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1629635367021" />
+    <state width="1148" height="426" key="GridCell.Tab.3.center" timestamp="1629635367021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="426" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1629635367021" />
+    <state width="1148" height="426" key="GridCell.Tab.3.left" timestamp="1629635367021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="426" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1629635367021" />
+    <state width="1148" height="426" key="GridCell.Tab.3.right" timestamp="1629635367021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1148" height="426" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1629635367021" />
+    <state x="271" y="42" key="Maven.ArtifactSearchDialog" timestamp="1629608398771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="42" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1629608398771" />
+    <state x="216" y="53" key="SettingsEditor" timestamp="1629622706119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="216" y="53" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1629622706119" />
+    <state x="550" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1629368931484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1629368931484" />
+    <state x="356" y="103" key="new project wizard" timestamp="1628580317933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="103" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1628580317933" />
+    <state x="562" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1629686545455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1629686545455" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="org.activiti.engine.impl.persistence.entity.TaskEntity" fieldName="id" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
